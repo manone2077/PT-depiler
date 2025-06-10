@@ -4,7 +4,6 @@
   "version": "0.0.3",
   "type": "module",
   "homepage": "https://github.com/pt-plugins/PT-depiler",
-  "packageManager": "pnpm@10.8.0",
   "author": {
     "name": "Pt-Plugins",
     "url": "https://github.com/pt-plugins"
